@@ -11,7 +11,7 @@ author: "echo"
 main: "example.ExampleJavaMod"
 
 #the mod description as seen in the mod dialog
-description: "aaaaaa"
+description: "i have no idea what i am doing"
 
 #the mod version
 version: 1.0
